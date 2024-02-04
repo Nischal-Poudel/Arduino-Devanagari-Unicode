@@ -1,0 +1,16 @@
+#--------------------------------------------------------
+# These are the functions used for coloring the syntaxes
+#--------------------------------------------------------
+#KEYWORD1 is bold
+#KEYWORD2 is plain colored text
+
+#Datatypes such as Objects
+
+Devanagari KEYWORD1
+
+#--------------------------
+# Methods/functions
+
+printUnicode KEYWORD2
+
+#--------------------------
